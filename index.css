@@ -1,0 +1,22 @@
+.card{
+
+    cursor: pointer;
+}
+.card:hover{
+
+    box-shadow: 0 0 5px #33b5e5, 0 0 25px #33b5e5, 0 0 50px #33b5e5, 0 0 200px #33b5e5;
+}
+
+
+.nav-item{
+    transition: transform .2s;
+    cursor: pointer;
+}
+.nav-item:hover{
+    
+    transform: scale(1.2);
+}
+
+
+
+
